@@ -1,0 +1,5 @@
+*.o
+*.so
+*.pc
+bar/bar
+target/
